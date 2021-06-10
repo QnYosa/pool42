@@ -1,0 +1,5 @@
+Credentials cache: API:CF8835E6-A5A3-438D-BECE-0E0C04B3C218
+        Principal: dyoula@42.FR
+
+  Issued                Expires               Principal
+Mar 15 11:31:28 2021  Mar 22 11:31:07 2021  krbtgt/42.FR@42.FR
